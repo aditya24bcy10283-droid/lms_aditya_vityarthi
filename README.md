@@ -198,12 +198,6 @@ Section 11 — Testing Approach):
 9. **Logging** — check `data/app.log` after a session to confirm logins,
    issues, returns and errors were recorded with timestamps.
 
-## Screenshots
-
-See the `docs/` folder and the project report PDF for the system
-architecture, workflow, UML and ER diagrams, along with sample console
-output.
-
 ## License
 
 This project was created for academic submission purposes as part of a
